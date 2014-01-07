@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World of blobs game server", "World of blobs game server\World of blobs game server.csproj", "{4797218F-74B4-4906-B2E8-6E93E99EBD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World of blobs chat server", "World of blobs chat server\World of blobs chat server.csproj", "{12CBFC84-6EA5-4A5A-A72A-F6B45B85C48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World of blobs client", "World of blobs client\World of blobs client.csproj", "{5170EEEA-3638-4EF6-A6C8-BFDA7D898415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4797218F-74B4-4906-B2E8-6E93E99EBD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4797218F-74B4-4906-B2E8-6E93E99EBD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4797218F-74B4-4906-B2E8-6E93E99EBD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4797218F-74B4-4906-B2E8-6E93E99EBD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CBFC84-6EA5-4A5A-A72A-F6B45B85C48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CBFC84-6EA5-4A5A-A72A-F6B45B85C48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CBFC84-6EA5-4A5A-A72A-F6B45B85C48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CBFC84-6EA5-4A5A-A72A-F6B45B85C48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5170EEEA-3638-4EF6-A6C8-BFDA7D898415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5170EEEA-3638-4EF6-A6C8-BFDA7D898415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5170EEEA-3638-4EF6-A6C8-BFDA7D898415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5170EEEA-3638-4EF6-A6C8-BFDA7D898415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
