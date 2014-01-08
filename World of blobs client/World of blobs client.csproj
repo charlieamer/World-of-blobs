@@ -66,9 +66,12 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="src\exceptions\RetryLimitReachedException.cs" />
+    <Compile Include="src\server-related\BaseServer.cs" />
     <Compile Include="src\server-related\ServerEnumerator.cs" />
     <Compile Include="src\server-related\ServerInfo.cs" />
     <Compile Include="src\server-related\ServerList.cs" />
+    <Compile Include="src\server-related\WebService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

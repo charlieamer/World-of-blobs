@@ -7,7 +7,9 @@ using System.Xml.Serialization;
 
 namespace World_of_blobs_client.src.server_related
 {
-    [Serializable]
+    /// <summary>
+    /// This class just contains a list of information about various servers available. Used for xml deserialization
+    /// </summary>
     [XmlRoot("servers")]
     public class ServerList
     {
