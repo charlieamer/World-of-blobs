@@ -17,6 +17,7 @@ namespace World_of_blobs_client
             {
                 Console.Write("------------------\nIp: " + info.ip + ":" + info.port + "\nName: " + info.name + "\nIs game server: " + info.isGame + "\n");
             }
+            Console.Write("\nPress a key to exit");
             Console.ReadKey();
         }
     }
