@@ -10,6 +10,7 @@ namespace World_of_blobs_chat_server
     {
         static void Main(string[] args)
         {
+            //space i pohrani
 
         }
     }
